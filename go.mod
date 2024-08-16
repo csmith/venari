@@ -3,7 +3,7 @@ module github.com/csmith/venari
 go 1.20
 
 require (
-	github.com/bwmarrin/discordgo v0.27.1
+	github.com/bwmarrin/discordgo v0.28.1
 	github.com/csmith/envflag v1.0.0
 )
 
